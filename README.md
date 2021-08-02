@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, Lawrence Zou here! 👋
+
+## A Machine Learning Enthusiast 
+
+I’m interested in areas of AI, science, and robotics 
+Technologies that I am tinkering with are BrickPi, Python, C++, Tensorflow, OpenCV
+
+
 
 <!--
 **BrightLaw9/BrightLaw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
