@@ -2,7 +2,7 @@
 
 ## A Machine Learning Enthusiast 
 
-I’m interested in areas of AI, science, and robotics \
+I’m interested in areas of AI, algorithms, and robotics \
 Technologies that I am tinkering with are BrickPi, Python, Java, C++, object detection, neural network (with music?!)
 
 
