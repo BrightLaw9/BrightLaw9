@@ -2,10 +2,19 @@
 
 ## A Machine Learning Enthusiast 
 
-I’m interested in areas of AI, algorithms, and robotics \
-Technologies that I am tinkering with are BrickPi, Python, Java, C++, object detection, neural network (with music?!)
+I have experience and am interested in areas of AI, machine learning techniques (and ways to optimize them), robotics, and web development \
+Technologies I have experience with: 
 
+![Skills](https://github.com/user-attachments/assets/69da6f87-d64c-456b-81aa-a9d073f1db6c)
 
+Always open to new ideas and perspectives (in technology, how society is developing, philosophical concepts, or anything you feel important)! 
+<br> 
+
+Hobbies and side interests: 
+- Jazz music
+- Cooking (learning different flavours of cuisines)
+- Badminton, Basketball, Running
+- Working on projects that will be deployed into the community
 
 <!--
 **BrightLaw9/BrightLaw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
