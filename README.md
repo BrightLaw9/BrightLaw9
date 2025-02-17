@@ -2,12 +2,14 @@
 
 ## A Machine Learning Enthusiast 
 
-I have experience and am interested in areas of AI, machine learning techniques (and ways to optimize them), robotics, and web development \
-Technologies I have experience with: 
+I have experience in areas of AI, machine learning techniques, robotics, and web development
+<br>
+
+### Technologies I have experience with: 
 
 ![Skills](https://github.com/user-attachments/assets/69da6f87-d64c-456b-81aa-a9d073f1db6c)
 
-Always open to new ideas and perspectives (in technology, how society is developing, philosophical concepts, or anything you feel important)! 
+Always open to **new ideas and perspectives** (in technology, how society is developing, philosophical concepts, or anything you feel important)! 
 <br> 
 
 Hobbies and side interests: 
